@@ -7,7 +7,7 @@ $font-subtitle: Arimo, sans-serif;
 $font-text: Roboto Condensed, sans-serif;
 $prime-color: #545454;
 $second-color: #A62A2A;
-body {background-color: #EAEAAE}
+body {background-color: white;}
 .container {
 	width: 100%;
 	max-width: 1200px;
@@ -17,7 +17,7 @@ body {background-color: #EAEAAE}
 	text-align: center;
 }
 h1 {
-	font: 30px $fonts-title;
+	font: 28px $fonts-title;
 	font-weight: bold;
 	color: $prime-color;
 	}
